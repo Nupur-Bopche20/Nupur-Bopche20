@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Nupur-Bopche20
 - 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently learning C,JAVA
+- I have knowledge about C, C++ , Python, HTML, CSS .
+- 🌱 I’m currently learning more on web development
 - 💞️ I’m looking to collaborate on GOOGLE,AMAZON,ETC.
 - 📫 How to reach me ..You can reach me through Linkdien : www.linkedin.com/in/nupur-bopche-b91bb0200
                                                
