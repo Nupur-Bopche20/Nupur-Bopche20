@@ -1,7 +1,7 @@
 # Hi there, I'm Nupur Bopche 👋
 
 <a href="https://www.linkedin.com/in/nupur-bopche-b91bb0200/">
-  <img align="right" alt="Your Name | LinkedIn" width="240px" src="httpsimg.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" />
+  <!-- <img align="right" alt="Your Name | LinkedIn" width="240px" src="httpsimg.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" /> -->
 </a>
 
 I am an M.Tech Information Technology scholar at **NIT Raipur**, passionate about leveraging technology to solve real-world problems. My core interests lie in Machine Learning, Computer Vision, and Full-Stack Development.
@@ -34,7 +34,7 @@ Here are the tools and technologies I work with:
 
 ---
 
-### 🚀 My Key Projects
+<!-- ### 🚀 My Key Projects
 
 Beyond my thesis, here are some projects I'm proud of.
 
@@ -51,7 +51,7 @@ Beyond my thesis, here are some projects I'm proud of.
 **3. [Another Good Project]**
 * **Description:** A [e.g., data structures, algorithm-heavy, or full-stack] project.
 * **Tech Stack:** `[e.g., C++, Data Structures]`
-* **[View on GitHub]([link-to-repo])**
+* **[View on GitHub]([link-to-repo])**   -->
 
 ---
 
