@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Nupur Bopche 👋
 
 <a href="https://www.linkedin.com/in/nupur-bopche-b91bb0200/">
   <img align="right" alt="Your Name | LinkedIn" width="240px" src="httpsimg.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" />
@@ -38,7 +38,7 @@ Here are the tools and technologies I work with:
 
 Beyond my thesis, here are some projects I'm proud of.
 
-**1. [Your M.Tech Project Name]**
+**1. Pest Detection and Recommendation using Deep Learning**
 * **Description:** A deep-learning-based system for [details...]. (This is your thesis, make it #1).
 * **Tech Stack:** `Python`, `TensorFlow`, `OpenCV`, `Flask`
 * **[View on GitHub]([link-to-repo])** | **[Live Demo (if you have one)]**
@@ -58,21 +58,21 @@ Beyond my thesis, here are some projects I'm proud of.
 ### 🎓 Education & Achievements
 
 * **M.Tech, Information Technology** | NIT Raipur
-    * *(20xx - Present)*
+    * *(2024 - Present)*
 * **Qualified GATE (Computer Science)**
-    * *(Year: 20xx)* | *(Score/Rank: [Optional, but good if high])*
+    * *(Year: 2024)* 
 * **B.Tech, Computer Science & Engineering** | UIT Barkatullah University
-    * *(20xx - 20xx)*
+    * *(2020 - 2024)*
 
 ---
 
 ### 📫 Get In Touch
 
-* **LinkedIn:** `[https://www.linkedin.com/in/nupur-bopche-b91bb0200/]`
-* **Email:** `[nupurbopche633@gmail.com]`
+* **LinkedIn:** `https://www.linkedin.com/in/nupur-bopche-b91bb0200/`
+* **Email:** `nupurbopche633@gmail.com`
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https:github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=radical" alt="Your GitHub Stats" />
-</p>
+</p> -->
