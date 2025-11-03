@@ -16,7 +16,7 @@ My M.Tech research is focused on **Pest Identification and Recommendation System
 
 * **Goal:** To create a system that helps farmers by automatically identifying crop pests from images (using Computer Vision) and then recommending effective, data-driven solutions and treatments.
 * **Tech:** This project involves building and optimizing deep learning models (like CNNs) and developing an accessible interface for practical field use.
-* **Repo:** You can follow the project here: `[Link to Your Pest Project Repo]`
+<!-- * **Repo:** You can follow the project here: `[Link to Your Pest Project Repo]`  -->
 
 ---
 
